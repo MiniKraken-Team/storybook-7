@@ -2,7 +2,7 @@
   import './button.css';
   import { createEventDispatcher } from 'svelte';
 
-  import { goto } from '$app/navigation'
+  //import { goto } from '$app/navigation'
 
 
 
